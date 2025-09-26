@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   standalone: false,
 })
 export class HomePage {
+  id : Number = 4;
 
   constructor() {}
-
 }
