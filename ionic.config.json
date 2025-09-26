@@ -1,0 +1,7 @@
+{
+  "name": "mobile-path-parameters",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
